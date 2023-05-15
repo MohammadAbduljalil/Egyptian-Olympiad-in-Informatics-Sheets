@@ -4,4 +4,5 @@
 Just like the previous problem:
  + Use the ```cout``` command.
  + Use the same exact capitalization and spacing as mentioned in the statement.
+
 I hope you will be a solid programmer in the near future :)
