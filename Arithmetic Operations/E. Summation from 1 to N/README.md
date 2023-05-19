@@ -6,19 +6,23 @@
 
 > To deduce this formula, you may assume the value of the sum to be S, then do as follows:
 Start by arranging the numbers from 1 to N ascendingly, and make their sum equal to S, as follows:
-
-1 + 2 + 3 + ... + (N - 2) + (N - 1) + N = S
-Then arrange them descendingly, and also make their sum equal to S, as follows:
-N + (N - 1) + (N - 2) + ... + 3 + 2 + 1 = S
-Proceed by adding the two equations:
-
-  *1 + 2 + 3 + ... + (N - 2) + (N - 1) + N     = S*
-*\+ N + (N - 1) + (N - 2) + ... + 3 + 2 + 1     = S*
-*-----------------------------------------------------*
-  *(N + 1) + (N + 1) + (N + 1) + (N + 1) + ... = 2 ⋅ S*
-Since there are n numbers in the left hand side, you may rewrite the equation as:
-
-*N ⋅ (N + 1) = 2 ⋅ S*
-And by rearranging the equation:
-
-```*S = (N ⋅ (N + 1)) / 2*```
+>
+> 1 + 2 + 3 + ... + (N - 2) + (N - 1) + N = S
+> 
+> Then arrange them descendingly, and also make their sum equal to S, as follows:
+>
+> N + (N - 1) + (N - 2) + ... + 3 + 2 + 1 = S
+>
+> Proceed by adding the two equations:
+>
+> *1 + 2 + 3 + ... + (N - 2) + (N - 1) + N     = S*
+> *N + (N - 1) + (N - 2) + ... + 3 + 2 + 1     = S*
+> *-----------------------------------------------------*
+> *(N + 1) + (N + 1) + (N + 1) + (N + 1) + ... = 2 ⋅ S*
+>
+> Since there are n numbers in the left hand side, you may rewrite the equation as:
+>
+> *N ⋅ (N + 1) = 2 ⋅ S*
+> And by rearranging the equation:
+>
+> ```*S = (N ⋅ (N + 1)) / 2*```
