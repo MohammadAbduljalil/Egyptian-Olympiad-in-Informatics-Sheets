@@ -1,5 +1,5 @@
 # [A. Simple Calculator](https://codeforces.com/group/6uhngucRCe/contest/429626/problem/A)
-> *This problem prompts you to print the sum, product, and the difference of two given numbers X and Y.
+> *This problem prompts you to print the sum, product, and the difference of two given numbers X and Y.*
 
 + Print the result of each operation on a single line
 + Use the same exact spacing as in the statement:
