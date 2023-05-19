@@ -15,13 +15,13 @@ Start by arranging the numbers from 1 to N ascendingly, and make their sum equal
 >
 > Proceed by adding the two equations:
 >
-> *1 + 2 + 3 + ... + (N - 2) + (N - 1) + N     = S*
+> *1 + 2 + 3 + ... + (N - 2) + (N - 1) + N &nbsp; = S*
 > 
-> *N + (N - 1) + (N - 2) + ... + 3 + 2 + 1     = S*
+> *N + (N - 1) + (N - 2) + ... + 3 + 2 + 1 &nbsp; = S*
 > 
 > *-----------------------------------------------------*
 > 
-> *(N + 1) + (N + 1) + (N + 1) + ...           = 2 ⋅ S*
+> *(N + 1) + (N + 1) + (N + 1) + ... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; = 2 ⋅ S*
 >
 > Since there are n numbers in the left hand side, you may rewrite the equation as:
 >
