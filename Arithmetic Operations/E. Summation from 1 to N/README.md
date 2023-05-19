@@ -28,4 +28,4 @@ Start by arranging the numbers from 1 to N ascendingly, and make their sum equal
 > *N ⋅ (N + 1) = 2 ⋅ S*
 > And by rearranging the equation:
 >
-> ```*S = (N ⋅ (N + 1)) / 2*```
+> *```S = (N ⋅ (N + 1)) / 2```*
