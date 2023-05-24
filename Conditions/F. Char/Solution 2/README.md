@@ -3,6 +3,6 @@
 
 After implementing the intended conditions solution, I want to introduce you to two very important builtin functions in C++
 + Include the header ```<cctype>``` that contains the functions:
- + ```tolower()```
- + ```toupper()```
+  + ```tolower()```
+  + ```toupper()```
 + After checking whether the letter is lower or upper case, use the function ```tolower()``` to convert it to lowercase if it's uppercase amd ```toupper()``` to do the opposite
