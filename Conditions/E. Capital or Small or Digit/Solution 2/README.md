@@ -8,5 +8,6 @@ After implementing the intended conditions solution, I want to introduce you to 
  - ```isupper()```
  - ```islower()```
 + Call the function ```isdigit()``` with the given character as a parameter, use the boolean value that it will return to know whether the given character is a digit or not.
+
 --> ```isdigit(c)```
 + Use the rest of the functions similarly
