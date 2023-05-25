@@ -1,5 +1,4 @@
 #include <iostream>
-// We include the header (library) <cmath> which contains the function: log()
 #include <cmath>
 using namespace std;
 int main() {
