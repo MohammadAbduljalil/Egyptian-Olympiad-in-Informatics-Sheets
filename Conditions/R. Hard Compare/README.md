@@ -6,6 +6,7 @@
 + After applying the logarithm simplify the inequality using the logarithms' properties as follows:
 
 log(A<sup>B</sup>) > log(C<sup>D</sup>)
+
 B ⋅ log(A) > D ⋅ log(C)
 + Therefore you can validate the inequality **A<sup>B</sup> > C<sup>D</sup>** by validating the inequality **B ⋅ log(A) > D ⋅ log(C)**, as the correctness of the second inequality implies the correctness of the first one.
 + To calculate ```log(A)``` and ```log(C)```, you can use the builtin ```log()``` function found in the header ```<cmath>``` which calculates the natural logarithm of the number ln(n) or log<sub>e</sub>(n)
